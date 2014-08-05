@@ -1,7 +1,7 @@
 ---
 layout: page
 title: zhxysky
-tagline: 
+tagline: 学会坚持
 ---
 {% include JB/setup %}
 
