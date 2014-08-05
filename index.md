@@ -1,7 +1,7 @@
 ---
 layout: page
 title: zhxysky
-tagline: 冰冻三尺，非一日之寒
+tagline: 
 ---
 {% include JB/setup %}
 
