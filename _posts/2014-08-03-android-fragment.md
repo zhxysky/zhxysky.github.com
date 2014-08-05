@@ -4,6 +4,8 @@ title: android开发——初识fragment
 category: test2
 tags: [android, fragment]
 ---
+{% include JB/setup %}
+
 
 采用fragment而不是activity进行应用的UI管理，可绕开Android系统activity规则的限制 。
 

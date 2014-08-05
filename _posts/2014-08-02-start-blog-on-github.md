@@ -4,6 +4,7 @@ title: 搭建github博客
 category: test1
 tags: [github, blog]
 ---
+{% include JB/setup %}
 
 github工作过程：提交特定格式的文章，通过github的jekyll转化成网页形式显示出来
 
