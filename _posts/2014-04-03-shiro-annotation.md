@@ -31,6 +31,7 @@ Shiro的认证注解处理是有内定的处理顺序的，如果有个多个注
 
 	@RequiresRoles(value={"user","admin"},logical=Logical.OR)
 
+除此之外还有以下类似权限的注解：
 
 	@RequiresPermissions("index:hello")
 	@RequiresPermissions({"index:hello","index:world"})
