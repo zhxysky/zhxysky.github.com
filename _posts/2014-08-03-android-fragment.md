@@ -1,7 +1,7 @@
 ---
 layout: post
 title: android开发——初识fragment
-category: test2
+category: android
 tags: [android, fragment]
 ---
 
