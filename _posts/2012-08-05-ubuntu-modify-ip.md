@@ -1,3 +1,11 @@
+---
+layout: post
+title: ununtu下修改IP地址
+category: linux
+tags: [ubuntu, ip]
+---
+
+
 ubuntu修改ip：vi /etc/network/interfaces
 
 ![修改Ubuntu Ip](/images/linux/ubuntu-ip.jpg "ubuntu ip")
