@@ -2,7 +2,7 @@
 layout: post
 title: ubuntu下安装nginx
 category: linux
-tags: [linux, ubuntu, vi, vim]
+tags: [linux, ubuntu, niginx]
 ---
 
 
