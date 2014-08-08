@@ -14,3 +14,6 @@ fragment是一种控制器对象，activity可委派它完成一些任务。通�
  activity视图含有可供fragment视图插入的位置。如果有多个fragment要插入，activity视图也可提供多个位置。
 
  Fragment生命周期：
+ onCreate
+
+ onPaused
