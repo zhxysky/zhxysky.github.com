@@ -106,3 +106,7 @@ F6 检测语法错误
 F9 行排序(按a-z)
 
 F11 全屏模式
+
+
+
+参考：<http://www.howzhi.com/group/it/discuss/10051>
