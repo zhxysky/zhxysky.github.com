@@ -37,7 +37,9 @@ Id就是项目的唯一的标识符，实际对应项目的名称，就是项目
 ![maven project](/images/maven/5.jpg "maven project")
 
 6.由于工程里面目录还不全，需要我们手动补充一下。
+
 （1）在src下面的main目录上右击，新建一个Foler，名为java，形成 src/main/java目录结构。我们在此目录下编写我们的代码。
+
 （2）在src/main/java下建立我们的package，形成我们的包目录。
 
 结果如下图所示：
