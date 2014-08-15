@@ -28,7 +28,7 @@ tags: [git]
 6.安装完毕。
 
 
-现在再使用PowerShell运行git命令，完全没有问题了。只是，打开PowerShell命令行的时候，开头出现“警告: Could not find ssh-agent”的提示信息，原来是找不到ssh-agent.exe。该文件在C:\Program Files (x86)\Git\bin下面，所以我们加想刚才添加git环境变量一样把该路径添加到path的最后保存，再重启PowerShell就没有这个提示信息了。
+现在再使用PowerShell运行git命令，完全没有问题了。只是，打开PowerShell命令行的时候，开头出现“警告: Could not find ssh-agent”的提示信息，原来是找不到ssh-agent.exe。该文件在C:\Program Files (x86)\Git\bin下面，所以我们就像刚才添加git环境变量一样把该路径添加到path的最后保存，再重启PowerShell就没有这个提示信息了。
 
 
 现在终于可以简单明了的在PowerShell下使用git命令了。
