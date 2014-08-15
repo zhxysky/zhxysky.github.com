@@ -13,7 +13,9 @@ tags: [git]
 
 ![查看PowerShell版面](/images/powershell/psversion.jpg "PSVersionTable")
 
+
 ![查看PowerShell版面](/images/powershell/getHost.jpg "Get-Host")
+
 
 2.确认允许执行脚本。使用命令 Get-ExecutionPolicy 查看，如果结果是 RemoteSigned 或者  Unrestricted ，则表示允许执行脚本。如果不允许执行，那么就以管理员身份运行PowerShell，然后执行命名 
 
