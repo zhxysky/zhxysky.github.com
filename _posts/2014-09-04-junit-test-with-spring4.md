@@ -55,7 +55,7 @@ tags: [Spring,Junit]
 		}
 	}
 
-把该程序运run as ---> Junit Test，可以看到如下输出内容：
+把该程序run as ---> Junit Test，可以看到如下输出内容：
 
 	do before method:com.zhxy.service.impl.UserServiceImpl.getUserList
 	process time :173 ms.
@@ -72,4 +72,4 @@ tags: [Spring,Junit]
 	do after method:com.zhxy.service.impl.UserServiceImpl.getUserById
 	User [id=3, name=tony]
 
-由于代码中配置了切面，所以会有内容前后的一些输出信息。代码请查看[msm项目源码](https://github.com/zhxysky/msm)。
+由于代码中配置了切面，所以会有一些其他的输出信息。代码请查看[msm项目源码](https://github.com/zhxysky/msm)。
