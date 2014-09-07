@@ -30,7 +30,7 @@ tags: [maven, java]
 
 4.在命令行输入一下安装代码：
 	
-	mvn install:install-file -Dfile=ZHconverter.jar -DgroupId=com.spreada -DartifactId=zhconverter -Dversion=1.0 -Dpackaging=jar
+	mvn install:install-file -Dfile=ZHConverter.jar -DgroupId=com.spreada -DartifactId=zhconverter -Dversion=1.0 -Dpackaging=jar
 
 回车，可看到安装信息以及是否成功。成功以后，可以在本地仓库相应的文件夹下面找到jar文件。
 
