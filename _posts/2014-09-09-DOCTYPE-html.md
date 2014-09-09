@@ -10,9 +10,10 @@ tags: [html,doctype]
 2.还有一个问题就是有些页面在IE下显示的时候，浏览器模式和文档模式不匹配，也会导致显示不正常。后来发现，一般不匹配的页面，都没有写DOCTYPE标签，原来这是最终的原因，加上DOCTYPE标签，果然显示正常。
 
 
-注；<!DOCTYPE>声明没有结束标签。<!DOCTYPE> 声明对大小写不敏感。
+注：<!DOCTYPE>声明没有结束标签。<!DOCTYPE> 声明对大小写不敏感。
 
 3.常用的DOCTYPE声明：
+
 ##### HTML 5
 	
 	<!DOCTYPE html>
