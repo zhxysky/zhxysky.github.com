@@ -11,7 +11,7 @@ tags: [srping, mvc]
 	
 	<servlet-mapping>
 		<servlet-name>spring</servlet-name>
-		<url-pattern>*.do</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
 2.在spring-mvc.xml 中配置静态文件路径映射，以免spring拦截静态文件：
