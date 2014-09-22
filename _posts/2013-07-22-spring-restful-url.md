@@ -30,7 +30,7 @@ tags: [srping, mvc]
 
 4.运行之后访问如下地址：http://localhost:8080/msm/hello/zhangsan 可以看到返回内容。
 
-注：如果出现404错误，可能是在spring-mvc.xml中没有配置<mvc:annotation-driven />
+注：如果出现404错误，可能是在spring-mvc.xml中没有配置 &lt;mvc:annotation-driven /&gt;
 
 5.我们把静态文件放到static目录下，由于配置了静态文件映射，所以不会被拦截。如下访问：
 	
