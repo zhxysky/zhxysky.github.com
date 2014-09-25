@@ -156,7 +156,7 @@ tags: [spring,xml]
 
 此时部署运行，访问 http://localhost:8080/msm/xml，可以看到返回的是json数据。
 
-	{"name":"Jane Doe","address":{"street":"123 Any Street","city":"My Town"},"phoneNumbers":[{"type":"work","value":"613-555-1111"},{"type":"cell","value":"613-555-2222"}]}
+	
 
 3.在pom.xml中添加以下依赖，导入jar包：
 	
