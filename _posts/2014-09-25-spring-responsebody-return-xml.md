@@ -177,9 +177,12 @@ tags: [spring,xml]
 	javax.xml.bind.context.factory=org.eclipse.persistence.jaxb.JAXBContextFactory
 
 5.在bean类里添加注解，自定义xml输出结构。
-	@XmlRootElement 指定xml的跟元素
-	@XmlType的propOrder属性指定元素顺序
-	@XmlPath 用于指定基于路径的映射
+	
+@XmlRootElement 指定xml的跟元素
+	
+@XmlType的propOrder属性指定元素顺序
+
+@XmlPath 用于指定基于路径的映射
 
 	import java.util.ArrayList;
 	import java.util.List;
