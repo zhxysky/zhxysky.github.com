@@ -108,8 +108,8 @@ Alt+Shift+← 选择上一个元素
 
 Alt+Shift+→  选择下一个元素
 
-
-
+     
+     
 Ctrl+Shift+F6  上一个编辑器 
 
 Ctrl+F6  下一个编辑器 
