@@ -72,9 +72,13 @@ Ctrl+Shift+F 格式化当前代码
 
 Ctrl+Shift+P 定位到匹配符(譬如{},从前面定位到后面时，光标要在匹配符里面，后面定位到前面，则反之)
 
+<br>
+
 Ctrl+↑ 上滚行
 
 Ctrl+↓ 下滚行
+
+<br>
 
 Ctrl+F 查找并替换 
 
@@ -82,15 +86,19 @@ Ctrl+Shift+K  查找上一个
 
 Ctrl+K 查找下一个
 
+<br>
+
 Alt+Shift+↓ 恢复上一个选择
 
-Ctrl+Shift+U 出现在文件中 
+Ctrl+Shift+U 出现在文件中的位置
 
-Ctrl+H 打开搜索对话框 
+Ctrl+H 打开全局搜索对话框 
 
 Ctrl+G 工作区域中的声明  
 
 Ctrl+Shift+G 工作区域中的引用 
+
+<br>
 
 Ctrl+Shift+F 格式化
 
@@ -98,9 +106,13 @@ Ctrl+/ 注释
 
 Ctrl+\ 取消注释
 
+<br>
+
 Ctrl+Shift+M 添加导入
 
 Ctrl+Shift+O 组织导入
+
+<br>
 
 Alt+Shift+↑ 选择封装元素
 
@@ -110,6 +122,7 @@ Alt+Shift+→  选择下一个元素
 
      
 <br><br>
+
 Ctrl+Shift+F6  上一个编辑器 
 
 Ctrl+F6  下一个编辑器 
@@ -126,8 +139,7 @@ Ctrl+F10	显示视图菜单
 
 Alt+- 显示系统菜单
 
-
-
+<br><br>
 
 Alt+Shift+R 重命名
 
