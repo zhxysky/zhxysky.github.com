@@ -80,82 +80,82 @@ tags: [eclipse]
 
 <br>
 
-Ctrl+F 查找并替换 
+	Ctrl+F 查找并替换 
 
-Ctrl+Shift+K  查找上一个 
+	Ctrl+Shift+K  查找上一个 
 
-Ctrl+K 查找下一个
-
-<br>
-
-Alt+Shift+↓ 恢复上一个选择
-
-Ctrl+Shift+U 出现在文件中的位置
-
-Ctrl+H 打开全局搜索对话框 
-
-Ctrl+G 工作区域中的声明  
-
-Ctrl+Shift+G 工作区域中的引用 
+	Ctrl+K 查找下一个
 
 <br>
 
-Ctrl+Shift+F 格式化
+	Alt+Shift+↓ 恢复上一个选择
 
-Ctrl+/ 注释
+	Ctrl+Shift+U 出现在文件中的位置
 
-Ctrl+\ 取消注释
+	Ctrl+H 打开全局搜索对话框 
 
-<br>
+	Ctrl+G 工作区域中的声明  
 
-Ctrl+Shift+M 添加导入
-
-Ctrl+Shift+O 组织导入
+	Ctrl+Shift+G 工作区域中的引用 
 
 <br>
 
-Alt+Shift+↑ 选择封装元素
+	Ctrl+Shift+F 格式化
 
-Alt+Shift+← 选择上一个元素
+	Ctrl+/ 注释
 
-Alt+Shift+→  选择下一个元素
+	Ctrl+\ 取消注释
+
+<br>
+
+	Ctrl+Shift+M 添加导入
+
+	Ctrl+Shift+O 组织导入
+
+<br>
+
+	Alt+Shift+↑ 选择封装元素
+
+	Alt+Shift+← 选择上一个元素
+
+	Alt+Shift+→  选择下一个元素
 
      
 <br><br>
 
-Ctrl+Shift+F6  上一个编辑器 
+	Ctrl+Shift+F6  上一个编辑器 
 
-Ctrl+F6  下一个编辑器 
+	Ctrl+F6  下一个编辑器 
 
-Ctrl+Shift+F7 上一个视图 
+	Ctrl+Shift+F7 上一个视图 
 
-Ctrl+F7 下一个视图 
+	Ctrl+F7 下一个视图 
 
-Ctrl+Shift+F8 上一个透视图
+	Ctrl+Shift+F8 上一个透视图
 
-Ctrl+F8 下一个透视图
+	Ctrl+F8 下一个透视图
 
-Ctrl+F10	显示视图菜单
+	Ctrl+F10	显示视图菜单
 
-Alt+- 显示系统菜单
+	Alt+- 显示系统菜单
 
 <br><br>
 
-Alt+Shift+R 重命名
+	Alt+Shift+R 重命名
 
-Alt+Shift+C 修改函数结构
+	Alt+Shift+C 修改函数结构
 
-Alt+Shift+Z 撤销重构
+	Alt+Shift+Z 撤销重构
 
-Alt+Shift+M 抽取方法
+	Alt+Shift+M 抽取方法
 
-Alt+Shift+L 抽取局部变量
+	Alt+Shift+L 抽取局部变量
 
-Alt+Shift+I 内联
+	Alt+Shift+I 内联
 
-Alt+Shift+V 移动
+	Alt+Shift+V 移动
 
-Alt+Shift+Y 重做
+	Alt+Shift+Y 重做
 
-Alt+Shift+F 把Class中的local变量变为field变量
+	Alt+Shift+F 把Class中的local变量变为field变量
 
