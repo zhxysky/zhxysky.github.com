@@ -1,8 +1,8 @@
 ---
 layout: post
-title: shiro session共享
-category: 权限
-tags: [权限, shiro, session, 共享]
+title: git撤销合并操作
+category: git
+tags: [git, revert, merge]
 ---
 
 在使用git进行开发的过程中，我们经常使用多个分支开发不同的任务，然后进行合并。那么就会出现这种现象：分支br1合并到分支br2，br2在此基础上又有提交，此时发现br1的提交有问题，需要在br2中撤销br1的合并，那么该如何进行呢？
