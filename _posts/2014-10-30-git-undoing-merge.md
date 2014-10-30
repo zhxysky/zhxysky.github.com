@@ -52,7 +52,7 @@ mergerCommitId是指当前操作的id。
 
 答案是使用revert操作
 
-![br2 revert](/images/git/br2-revert-rever.jpg "br2 revert revert")
+![br2 revert](/images/git/revert-rever-merge.jpg "br2 revert revert")
 
 
 参考：[http://git-scm.com/blog/2010/03/02/undoing-merges.html](http://git-scm.com/blog/2010/03/02/undoing-merges.html)
