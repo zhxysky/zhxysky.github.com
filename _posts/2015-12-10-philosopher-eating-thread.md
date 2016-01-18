@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: 哲学家吃饭问题
 category: Thread
@@ -10,6 +10,7 @@ tags: [thread]
 
 
 java实现代码：
+
 
 	package com.zhxy.practice;
 
